@@ -14,7 +14,7 @@ Simple but interesting game
 
 <img src="https://github.com/amoursez/MIDTERM2021/blob/main/photo5384493417326818043.jpg" width="500" height="100">
 <h3>then second player should do the same</h3>
-<img src="https://github.com/amoursez/MIDTERM2021/blob/main/photo5384493417326818042.jpg" width="300" height="500">
+<img src="https://github.com/amoursez/MIDTERM2021/blob/main/photo5384493417326818042.jpg" width="500" height="100">
 <h3>You can play until someone wins.You can also start the game again if you want</h3>
 
  
