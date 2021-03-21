@@ -93,8 +93,7 @@ public class Main  {
       numMap.put("9", "");
 
       System.out.println();
-      System.out.println("-----------------------------");
-      System.out.println("Welcome to Sezim's Tic-tac-toe game!");
+      System.out.println("Welcome to Tic-tac-toe game!");
       System.out.println();
 
       showBoard(numMap);
