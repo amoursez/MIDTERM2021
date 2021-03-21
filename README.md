@@ -1,6 +1,5 @@
 # MIDTERM2021
-There is my project for Programming language 2
-h1>TicTacToe</h1>
+There is my project for Programming language 2.
 Simple but interesting game
 
 <h1>First step</h1>
